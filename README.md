@@ -1,1 +1,2 @@
-# GemMine
+# GemMine Exercises
+
